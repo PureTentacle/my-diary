@@ -1,5 +1,5 @@
 # my-diary
-###a web|hybird app for diary&accounting build with Vue
+### a web|hybird app for diary&accounting build with Vue
 ## Project setup
 ```
 npm install
